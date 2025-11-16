@@ -1,0 +1,22 @@
+{
+  "name": "Chatlog Parser",
+  "short_name": "LoveLetter",
+  "description": "LoveLetter",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4285f4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/Vvnf0vjf/64C37F95-6400-4C80-B4E3-01D31E1301F9.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/Vvnf0vjf/64C37F95-6400-4C80-B4E3-01D31E1301F9.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
